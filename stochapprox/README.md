@@ -37,7 +37,7 @@ Stochastic Approximation and Recursive Algorithms and Applications. George Yin a
  
 ### Topics:
 
-* Real Analysis - Real numbers, sequences, compact sets, contiuity, differentiability, Riemann integraton.
+* Real Analysis - Real numbers, topology, sequences, compact sets, continuity, differentiability, Riemann integraton.
 * Probability Theory - Borel set, probability measure, expectation, convergence theorems, L-p spaces, Radon-Nikodyn theorem
 * Stochastic process - Conditional expectation, stochastic processes, Kolmogorov extension theorem, martingales, martingale convergence                         theorems    
 * Dynamical systems - ODE local existence and uniqueness theorems, stability, linear dynamical systems.
