@@ -1,4 +1,3 @@
-## Classroom change: Go to Tory B 95
 
 ## Syllabus for CMPUT 659 
 
