@@ -2,36 +2,43 @@
 ## Syllabus for CMPUT 659 
 
 ### Time and Location
-MW, 9:30AM - 10:50PM
+MW, 9:30AM - 10:50PM 
+
 GSB 553
 
 ### Instructor
 Martha White (whitem@ualberta.ca)
+
 Ajin Joseph (ajoseph@ualberta.ca)
 
-Office: Martha White (ATH 3-05)
+Offices: 
+
+Martha White (ATH 3-05)
+
 Ajin Joseph (ATH 2-05)
 
 ### Office hours
-Martha White:  by appointment
+TBD
 
 ### Course Objective
 The course objective is to study the analysis of stochastic approximation algorithms from the viewpoint of dynamical systems.
+
 ### Prerequisites
 Linear Algebra, Probability
+
+We will cover the needed background, from the beginning (real analysis, probability theory, stochastic processes) to make these topics accessible. The goal of the courses is Fundamentals of Stochastic Approximation Theory, rather than Advanced topics. 
 
 ### Textbooks
 Stochastic Approximation: A Dynamical Systems Viewpoint, Vivek S. Borkar.
 
 **Recommended supplements**
+
 Stochastic Approximation and Recursive Algorithms and Applications. George Yin and Harold J. Kushner 
 
 ### Grading
-* Midterm exam: 
-* Final exam: 
-* Homework assignments (3): 
-* Initial draft for mini-project: 
-* Final mini-project write-up: 
+* Presentations: 20% 
+* Initial draft for project: 30% 
+* Final project write-up: 50%
 
  
 ### Topics:
@@ -43,6 +50,4 @@ Stochastic Approximation and Recursive Algorithms and Applications. George Yin a
 * Stochastic approximation algorithms - Chapter 2, 3,   6 and 4 of Borkar's textbook.
  
  
-### Late Policy and Academic Honesty
-All assignments and exams are individual, except when collaboration is explicitly allowed. All the sources used for problem solution must be acknowledged, e.g. web sites, books, research papers, personal communication with people, etc. Academic honesty is taken seriously; for detailed information see https://www.deanofstudents.ualberta.ca/en/AcademicIntegrity.aspx.
 
