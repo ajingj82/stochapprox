@@ -51,3 +51,25 @@ Stochastic Approximation and Recursive Algorithms and Applications. George Yin a
  
  
 
+
+| Lectures      | Topics to cover |
+| ------------- | --------------- |
+| Lecture 1     | Introduction  |
+| Lecture 2     | Real analysis: properties of real numbers, sequences, series, topology   |
+| Lecture 3     | Real analysis: compact sets, continuous functions |
+| Lecture 4     | Real analysis: differentiation and integration |
+| Lecture 5     | Probability theory: probability and expectation |
+| Lecture 6     | Probability theory: convergence theorems |
+| Lecture 7     | Probability theory: conditional expectation |
+| Lecture 8     | Martingales |
+| Lecture 9     | Martingales |
+| Lecture 10    | Martingales |
+| Lecture 11    | Dynamical systems: existence and uniqueness of solutions |
+| Lecture 12    | Dynamical systems: stability, linear autonomous systems, gradient flow |
+| Lecture 13    | Stochastic approximation algorithms: chapter 2 of Borkar's text |
+| Lecture 14    | Stochastic approximation algorithms: chapter 2 of Borkar's text (cont)|
+| Lecture 15    | Stochastic approximation algorithms: chapter 3 of Borkar's text  |
+| Lecture 16    | Stochastic approximation algorithms: chapter 6 of Borkar's text |
+| Lecture 17    | Stochastic approximation algorithms: chapter 4 of Borkar's text |
+
+
