@@ -1,4 +1,8 @@
 
+## Schedule
+
+[For the current schedule](schedule.md)
+
 ## Syllabus for CMPUT 659 
 
 ### Time and Location
