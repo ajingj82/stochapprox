@@ -25,7 +25,7 @@ Ajin Joseph (ATH 2-05)
 **13/01/2019: Lecture notes uploaded.**
 
 ### Office hours
-TBD
+Martha will always come to class at 9 a.m. before class, for any questions about projects
 
 ### Course Objective
 The course objective is to study the analysis of stochastic approximation algorithms from the viewpoint of dynamical systems.
