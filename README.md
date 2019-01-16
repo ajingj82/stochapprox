@@ -3,6 +3,9 @@
 
 [For the current schedule](schedule.md)
 
+## Announcements 
+**13/01/2019: Lecture notes uploaded.**
+
 ## Syllabus for CMPUT 659 
 
 ### Time and Location
@@ -11,18 +14,10 @@ MW, 9:30AM - 10:50PM
 GSB 553
 
 ### Instructor
-Martha White (whitem@ualberta.ca)
+Martha White (whitem@ualberta.ca, Office: ATH 3-05)
 
-Ajin Joseph (ajoseph@ualberta.ca)
+Ajin Joseph (ajoseph@ualberta.ca, Office: ATH 2-05)
 
-Offices: 
-
-Martha White (ATH 3-05)
-
-Ajin Joseph (ATH 2-05)
-
-### Announcements
-**13/01/2019: Lecture notes uploaded.**
 
 ### Office hours
 Martha will always come to class at 9 a.m. before class, for any questions about projects
@@ -43,8 +38,9 @@ Stochastic Approximation: A Dynamical Systems Viewpoint, Vivek S. Borkar.
 Stochastic Approximation and Recursive Algorithms and Applications. George Yin and Harold J. Kushner 
 
 ### Grading
-* Presentations: 20% 
-* Initial draft for project: 30% 
+* Weekly Progress Report: 10%
+* Assignments (2): 20%
+* Initial draft for project: 20% 
 * Final project write-up: 50%
 
  
