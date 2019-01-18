@@ -9,7 +9,7 @@ Week | Date | Topic | Comments
 ------------ | ------------- | ------------- | -------------
 1| January 7 | Introduction to Course: <a href="lectures/Lec1-Introduction.pdf">Lec1-Introduction.pdf</a> <br> First lecture on Whiteboard, on real analysis | Read <a href="lectures/lecture-notes.pdf">lecture-notes.pdf</a>. Also read Borkar's first chapter.
 1 | January 9 | Real analysis continued | 
-2 | January 14 | Real analysis continued | <a href="assignments/ass1.pdf">Assignment #1 released</a>
+2 | January 14 | Real analysis continued | <a href="assignments/assignment1.pdf">Assignment #1 released</a>
 2 | January 16 | |
 3 | January 21 | |
 3 | January 23 | | Project proposal due Friday, January 25
