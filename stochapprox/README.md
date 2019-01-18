@@ -20,10 +20,13 @@ Ajin Joseph (ATH 2-05)
 
 ### Announcements
 **13/01/2019: Lecture notes uploaded.**
+**17/01/2019: Assignment 1 is available online.**
 
 ### Office hours
 TBD
 
+### Assignments
+Assignment 1: 
 
 ### Course Objective
 The course objective is to study the analysis of stochastic approximation algorithms from the viewpoint of dynamical systems.
