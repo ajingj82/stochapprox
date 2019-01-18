@@ -6,6 +6,8 @@
 ## Announcements 
 **13/01/2019: Lecture notes uploaded.**
 
+**17/01/2019: Assignment 1 is available online. See schedule section. **
+
 ## Syllabus for CMPUT 659 
 
 ### Time and Location
