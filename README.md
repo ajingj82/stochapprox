@@ -23,6 +23,7 @@ Ajin Joseph (ajoseph@ualberta.ca, Office: ATH 2-05)
 
 ### Office hours
 Martha will always come to class at 9 a.m. before class, for any questions about projects
+
 Ajin: 3PM-4:30PM Monday-Friday
 
 ### Course Objective
