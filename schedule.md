@@ -17,6 +17,7 @@ Week | Date | Topic | Comments
 4 | January 30 | | Assignment 1 due
 5 | February 4 | | Report 1 due for Weekly Progress (for January 28 - February 3); Enter the brief summary in the forum and in the Quiz on eClass.  Read <a href="lectures/probtheory.pdf">probtheory.pdf</a>.
 5 | February 6 | | 
+5 | February 7 |  Assignment 2 posted | <a href="assignments/assignment2.pdf">Assignment #2 released</a>
 6 | February 11 | | Report 2 due for Weekly Progress 
 6 | February 13 | |
 7 | February 18 | | Report 3 due for Weekly Progress 
