@@ -8,6 +8,9 @@
 
 **17/01/2019: Assignment 1 is available online. See schedule section.**
 
+**7/02/2019: Assignment 2 is available online. See schedule section.**
+
+
 ## Syllabus for CMPUT 659 
 
 ### Time and Location
