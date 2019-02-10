@@ -10,6 +10,9 @@
 
 **7/02/2019: Assignment 2 is available online. See schedule section.**
 
+**10/02/2019: Lecture notes on probability theory updated.**
+
+
 
 ## Syllabus for CMPUT 659 
 
