@@ -23,11 +23,11 @@ Week | Date | Topic | Comments
 7 | February 18 | | Report 3 due for Weekly Progress 
 7 | February 20 | |
 8 | February 25 | | Report 4 due for Weekly Progress 
-8 | February 27 | | Assignment 2 due
+8 | February 27 | | 
 9 | March 4 | | Report 5 due for Weekly Progress 
 9 | March 6 | |
 10 | March 11 | | Report 6 due for Weekly Progress 
-10 | March 13 | |
+10 | March 13 | | Assignment 2 due on Friday
 11 | March 18 | | Report 7 due for Weekly Progress 
 11 | March 20 | |
 12 | March 25 | | Report 8 due for Weekly Progress 
