@@ -10,16 +10,16 @@ Week | Date | Topic | Comments
 1| January 7 | Introduction to Course: <a href="lectures/Lec1-Introduction.pdf">Lec1-Introduction.pdf</a> <br> First lecture on Whiteboard, on real analysis | Read <a href="lectures/lecture-notes.pdf">lecture-notes.pdf</a>. Also read Borkar's first chapter.
 1 | January 9 | Real analysis continued | 
 2 | January 14 | Real analysis continued | <a href="assignments/assignment1.pdf">Assignment #1 released</a>
-2 | January 16 | |
-3 | January 21 | |
-3 | January 23 | | Project proposal due Friday, January 25
-4 | January 28 | |
-4 | January 30 | | Assignment 1 due
-5 | February 4 | | Report 1 due for Weekly Progress (for January 28 - February 3); Enter the brief summary in the forum and in the Quiz on eClass.  Read <a href="lectures/probtheory.pdf">probtheory.pdf</a>.
-5 | February 6 | | 
-5 | February 7 |  Assignment 2 posted | <a href="assignments/assignment2.pdf">Assignment #2 released</a> Due date March 15
-6 | February 11 | | Report 2 due for Weekly Progress 
-6 | February 13 | |
+2 | January 16 | Real analysis continued |
+3 | January 21 | Real analysis continued |
+3 | January 23 | Probability Theory | Project proposal due Friday, January 25
+4 | January 28 | Probability Theory |
+4 | January 30 | Probability Theory | Assignment 1 due
+5 | February 4 | Probability Theory | Report 1 due for Weekly Progress (for January 28 - February 3); Enter the brief summary in the forum and in the Quiz on eClass.  Read <a href="lectures/probtheory.pdf">probtheory.pdf</a>.
+5 | February 6 | Probability Theory | 
+5 | February 7 | Probability Theory | <a href="assignments/assignment2.pdf">Assignment #2 released</a> Due date March 15
+6 | February 11 | Probability Theory | Report 2 due for Weekly Progress 
+6 | February 13 | Probability Theory |
 7 | February 18 | | Report 3 due for Weekly Progress 
 7 | February 20 | |
 8 | February 25 | | Report 4 due for Weekly Progress 
