@@ -18,7 +18,7 @@ Week | Date | Topic | Comments
 5 | February 4 | Probability Theory: Expectation | Report 1 due for Weekly Progress (for January 28 - February 3); Enter the brief summary in the forum and in the Quiz on eClass.  Read <a href="lectures/probtheory.pdf">probtheory.pdf</a>.
 5 | February 6 | Probability Theory: Expectation | 
 5 | February 7 | Probability Theory: Expectation | <a href="assignments/assignment2.pdf">Assignment #2 released</a> Due date March 15
-6 | February 11 | Probability Theory: Expecation | Report 2 due for Weekly Progress 
+6 | February 11 | Probability Theory: Expectation | Report 2 due for Weekly Progress 
 6 | February 13 | Probability Theory: Convergence theorems |
 7 | February 18 | | Report 3 due for Weekly Progress 
 7 | February 20 | |
