@@ -12,6 +12,8 @@
 
 **10/02/2019: Lecture notes on probability theory updated.**
 
+**21/02/2019: Lecture notes on probability theory updated.**
+
 
 
 ## Syllabus for CMPUT 659 
