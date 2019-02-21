@@ -31,7 +31,7 @@ Week | Date | Topic | Comments
 11 | March 18 | | Report 7 due for Weekly Progress 
 11 | March 20 | |
 12 | March 25 | | Report 8 due for Weekly Progress 
-12 | March 27 | | Iitial paper draft due Wednesday, March 27
+12 | March 27 | | Initial paper draft due Wednesday, March 27
 13 | April 1 | | Report 9 due for Weekly Progress 
 13 | April 3 | |
 14 | April 8 | Paper discussion | Report 10 due for Weekly Progress 
