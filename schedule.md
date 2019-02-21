@@ -11,8 +11,8 @@ Week | Date | Topic | Comments
 1 | January 9 |  Applications of stochastic approximation algorithms; Started Real analysis | 
 2 | January 14 | Real analysis continued | <a href="assignments/assignment1.pdf">Assignment #1 released</a>
 2 | January 16 | Real analysis continued |
-3 | January 21 | Real analysis  sequences |
-3 | January 23 | Real analysis: sequences | Project proposal due Friday, January 25
+3 | January 21 | Real analysis: real sequences |
+3 | January 23 | Real analysis: real sequences | Project proposal due Friday, January 25
 4 | January 28 | Probability Theory: Probability measure, random variables |
 4 | January 30 | Probability Theory: Probability measure, random variables | Assignment 1 due
 5 | February 4 | Probability Theory: Expectation | Report 1 due for Weekly Progress (for January 28 - February 3); Enter the brief summary in the forum and in the Quiz on eClass.  Read <a href="lectures/probtheory.pdf">probtheory.pdf</a>.
