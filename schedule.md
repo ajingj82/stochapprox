@@ -20,11 +20,11 @@ Week | Date | Topic | Comments
 5 | February 7 | Probability Theory: Expectation | <a href="assignments/assignment2.pdf">Assignment #2 released</a> Due date March 15
 6 | February 11 | Probability Theory: Expectation | Report 2 due for Weekly Progress 
 6 | February 13 | Probability Theory: Convergence theorems |
-7 | February 18 | | Report 3 due for Weekly Progress 
-7 | February 20 | |
-8 | February 25 | | Report 4 due for Weekly Progress 
-8 | February 27 | | 
-9 | March 4 | | Report 5 due for Weekly Progress 
+7 | February 18 | Reading week: No lecture | Report 3 due for Weekly Progress 
+7 | February 20 | Reading week: No lecture |
+8 | February 25 | Conditional Expectation | Report 4 due for Weekly Progress 
+8 | February 27 | No lecture | 
+9 | March 4 | Conditional Expectation | Report 5 due for Weekly Progress 
 9 | March 6 | |
 10 | March 11 | | Report 6 due for Weekly Progress 
 10 | March 13 | | Assignment 2 due on Friday
