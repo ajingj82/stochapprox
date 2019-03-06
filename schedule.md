@@ -24,7 +24,7 @@ Week | Date | Topic | Comments
 7 | February 20 | Reading week: No lecture |
 8 | February 25 | Conditional Expectation | Report 4 due for Weekly Progress 
 8 | February 27 | No lecture | 
-9 | March 4 | Conditional Expectation | Report 5 due for Weekly Progress 
+9 | March 4 | Conditional Expectation | Report 5 due for Weekly Progress. Reference for conditional expectation is Page 445 onwards in  https://www.colorado.edu/amath/sites/default/files/attached-files/billingsley.pdf 
 9 | March 6 | |
 10 | March 11 | | Report 6 due for Weekly Progress 
 10 | March 13 | | Assignment 2 due on Friday
