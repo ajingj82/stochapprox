@@ -16,6 +16,9 @@
 
 **12/03/2019: Lecture notes on probability theory updated.**
 
+**14/03/2019: Typo is Theorem 12. Now fixed.**
+
+
 
 
 ## Syllabus for CMPUT 659 
